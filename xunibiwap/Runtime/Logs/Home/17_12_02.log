@@ -1,0 +1,38 @@
+[ 2017-12-02T14:44:51+08:00 ] 106.121.18.133 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: btchanges D:\wwwroot\xunibiwap\Application\Home\Controller\HomeController.class.php 第 85 行.
+NOTIC: [8] unserialize(): Error at offset 0 of 1173 bytes D:\wwwroot\xunibiwap\ThinkPHP\Library\Think\Cache\Driver\File.class.php 第 104 行.
+NOTIC: [8] Undefined index: doge D:\wwwroot\xunibiwap\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\xunibiwap\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: lyc D:\wwwroot\xunibiwap\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\xunibiwap\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: ubc D:\wwwroot\xunibiwap\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index:  D:\wwwroot\xunibiwap\Application\Home\Controller\IndexController.class.php 第 83 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-02T14:44:52+08:00 ] 106.121.18.133 /wap/images/icon_arrow_b.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-02T14:44:53+08:00 ] 106.121.18.133 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002929s ]
+

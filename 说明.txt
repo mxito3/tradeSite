@@ -1,0 +1,12 @@
+后台跟账号密码和演示的一样
+数据库连接文件为根目录的index.php
+    define('DB_HOST', '127.0.0.1');
+    // 定义数据库名
+    define('DB_NAME', 'btc9');
+    // 定义数据库账号
+    define('DB_USER', 'root');
+    // 定义数据库密码
+    define('DB_PWD', 'root');
+    // 定义数据库端口
+    define('DB_PORT', '3306');
+以上信息改为您的
